@@ -7,6 +7,7 @@ python -m venv env
 git clone https://github.com/luterien/django-auth-test
 env\Scripts\activate
 cd django-auth-test
+pip install -r requirements.txt
 ```
 
 # Installation (Windows)
